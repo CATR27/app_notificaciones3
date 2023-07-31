@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "858736042940",
+    "project_id": "app1notificacion",
+    "storage_bucket": "app1notificacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858736042940:android:aca7c4003fd269b3bec1b9",
+        "android_client_info": {
+          "package_name": "com.example.app_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858736042940-nssmfnh0fph1lbn7ikpajndofj63eh3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEujanHAF9HPDMnR3uDj0WSu9G61MxRIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858736042940-nssmfnh0fph1lbn7ikpajndofj63eh3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858736042940-11fvphptjd4kco6n627e95sqn9ftdong.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appNotification.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858736042940:android:e05e94ab56259d2bbec1b9",
+        "android_client_info": {
+          "package_name": "com.example.notificaciones_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858736042940-nssmfnh0fph1lbn7ikpajndofj63eh3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEujanHAF9HPDMnR3uDj0WSu9G61MxRIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858736042940-nssmfnh0fph1lbn7ikpajndofj63eh3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858736042940-11fvphptjd4kco6n627e95sqn9ftdong.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appNotification.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
